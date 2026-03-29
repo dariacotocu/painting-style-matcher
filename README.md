@@ -13,3 +13,5 @@ Photos of the mystery paintings are compared against a dataset of 8,683 works fr
 ## Dataset
 
 [Best Artworks of All Time – Kaggle](https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-time)
+
+The dataset of the paintings could not be uploaded in this repo due to its size. 
